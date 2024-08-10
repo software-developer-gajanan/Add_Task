@@ -1,2 +1,2 @@
-Publish URL : https://task99.ccbp.tech
+Publish link: https://task99.ccbp.tech
 
